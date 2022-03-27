@@ -1,0 +1,27 @@
+.hidden {
+    display: none;
+}
+
+img {
+    position:absolute;
+    width:100%;
+    height:100%;
+    left: 0px;
+    top: 0px;
+    right:0px;
+    bottom:0px;
+    z-index: -1;
+    opacity:80%;
+    }
+#clock {
+ color: #F7E2E2; 
+ font-size: 40px;
+
+}
+body {
+    text-align: center;
+}
+
+61A4BC
+5B7DB1
+1A132F
